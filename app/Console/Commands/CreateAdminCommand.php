@@ -14,7 +14,7 @@ class CreateAdminCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'stealth:create-admin';
+    protected $signature = 'cloud:create-admin';
 
     /**
      * The console command description.

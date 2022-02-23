@@ -15,7 +15,7 @@ class CreateUserCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'stealth:create-user';
+    protected $signature = 'cloud:create-user';
 
     /**
      * The console command description.

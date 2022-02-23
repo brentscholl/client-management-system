@@ -12,11 +12,11 @@ return [
     */
 
     'admin-user' => [
-        'first_name' => 'Stealth',
-        'last_name' => 'Media',
-        'email' => 'admin@stealthmedia.com',
+        'first_name' => 'Cloud',
+        'last_name' => 'Creations',
+        'email' => 'admin@cloudcreations.ca',
         'password' => 'St34lth!',
-        'phone' => '1-833-333-0344',
+        'phone' => '1-306-480-8171',
         'position' => 'Admin',
     ],
 

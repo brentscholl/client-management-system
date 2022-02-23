@@ -24,7 +24,7 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        $schedule->command('stealth:email-scheduler')->dailyAt('9:00');
+        $schedule->command('cloud:email-scheduler')->dailyAt('9:00');
 
     }
 

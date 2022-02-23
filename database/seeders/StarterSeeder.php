@@ -28,7 +28,7 @@ class StarterSeeder extends Seeder
         // Create admin user
         User::factory()->create([
             'client_id' => null,
-            'email'     => 'admin@stealthmedia.com',
+            'email'     => 'admin@cloudcreations.ca',
         ]);
     }
 }

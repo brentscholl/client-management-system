@@ -25,7 +25,7 @@ class EmailSchedulerCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'stealth:email-scheduler';
+    protected $signature = 'cloud:email-scheduler';
 
     /**
      * The console command description.
