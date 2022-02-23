@@ -1,8 +1,8 @@
 # Getting started
 - First run migrations: run `php artisan migrate`
 - Run `php artisan storage:link`
-- You can create the first admin user by running `php artisan stealth:create-admin` or seed the database
-  - Admin Username: `admin@stealthmedia.com`
+- You can create the first admin user by running `php artisan cloud:create-admin` or seed the database
+  - Admin Username: `admin@cloudcreations.ca`
   - Admin Password: `St34lth!`
 
 # Database
